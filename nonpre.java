@@ -8,6 +8,4 @@ public class nonpre {
         System.out.println(a[2]);
 
     }
-
-
 }
